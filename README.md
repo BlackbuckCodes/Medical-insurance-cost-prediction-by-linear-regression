@@ -1,4 +1,5 @@
-# Medical-insurance-cost-prediction-by-linear-regression
+# Medical-[insurance.csv](https://github.com/BlackbuckCodes/Medical-insurance-cost-prediction-by-linear-regression/files/9130188/insurance.csv)
+insurance-cost-prediction-by-linear-regression
 Expected Output:
 	age	sex	bmi	children	smoker	region	charges
 0	19	female	27.900	0	yes	southwest	16884.92400
